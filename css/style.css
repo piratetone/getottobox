@@ -151,9 +151,11 @@ nav.navbar.fixed-to-top{
 
 header{
 	padding: 150px 0px 0px 0px;
-	height: 960px;
-	background: url('../img/nepal.jpg');
+	height: 820px;
+/*	background: url('../img/nepal.jpg');
+*/	
 	background-color: white!important;
+	background: url('../img/ottomate_kitchen_bw_2.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
@@ -170,6 +172,7 @@ header h1{
 
 header p.lead{
 	font-size: 36px;
+	color: #62CDFF;
 }
 
 
@@ -238,7 +241,10 @@ header .carousel-indicators li {
 	overflow: hidden;
 	padding: 230px 0px 150px 0px;
 	min-height: 600px;
-	background: url('../img/dunes.jpg');
+/*	background: url('../img/dunes.jpg');*/
+/*	background: url('../img/ottobox_interior_bg.png');
+*/	
+	background: url('../img/ottbox_desk_bg.png');
 	background-position: center top;
 	background-repeat: repeat-x;
 	color: white;
@@ -470,10 +476,10 @@ header .carousel-indicators li {
 	
 	header{
 		padding-bottom: 50px;
-		min-height: 1000px;
+		min-height: 700px;
 		height: 100%;
 	}
-	
+
 	.navbar-nav {
 		float: left;
 		text-align: left;
@@ -546,6 +552,9 @@ header, .social{
 		margin-bottom: 50px;
 	}
 	
+	img {
+		width: 100%;
+	}
 }
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
