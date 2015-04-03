@@ -151,11 +151,11 @@ nav.navbar.fixed-to-top{
 
 header{
 	padding: 150px 0px 0px 0px;
-	height: 820px;
+	height: 620px;
 /*	background: url('../img/nepal.jpg');
 */	
 	background-color: white!important;
-	background: url('../img/ottomate_kitchen_bw_4.png');
+	background: url('../img/ottomate_kitchen_bw_6.png');
 	background-position-x: 60%;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -421,7 +421,7 @@ header .carousel-indicators li {
 /*-----------------------------------------------------------------------------------*/
 
 .get-it{
-	padding: 100px 0px 160px 0px;
+	padding: 0px 0px 160px 0px;
 	text-align: center;
 }
 
