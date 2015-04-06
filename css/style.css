@@ -150,8 +150,8 @@ nav.navbar.fixed-to-top{
 /*-----------------------------------------------------------------------------------*/
 
 header{
-	padding: 150px 0px 0px 0px;
-	height: 620px;
+	padding: 80px 0px 0px 0px;
+	height: 820px;
 /*	background: url('../img/nepal.jpg');
 */	
 	background-color: white!important;
@@ -567,3 +567,30 @@ header, .social{
     }
 }
 
+.btn-primary {
+	font-family: 'Source Sans Pro', sans-serif;
+	transition: .5s;
+  display: inline-block;
+  margin-bottom: 0;
+  margin-bottom: 10px;
+  padding: 18px 25px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  border-radius: 5px;
+  vertical-align: middle;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 1.428571429;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.btn-primary::hover {
+	transition: .5s;
+}
