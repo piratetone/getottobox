@@ -544,6 +544,10 @@ header, .social{
 	header h1{
 		font-size: 2em;
 	}
+
+	header p.lead {
+		font-size: 1.4em;
+	}
 	
 	.purchase{
 		padding-top: 50px;
